@@ -1,26 +1,24 @@
-# NGS-QC-and-Alignment-Basics
-This repository contains basic NGS data analysis workflow practiced on public datasets.
+# NGS QC and Alignment Pipeline
 
-**Objective:** To understand quality control, trimming and alignment of NGS reads.
+## Overview
+This project implements a reproducible pipeline for Next-Generation Sequencing (NGS) data quality control, trimming, and alignment. Built using Linux bash tools.
 
-**Dataset used:** Dummy FASTQ data / SRA public data (SRR example)
+## Tools Used
+FastQC, Trimmomatic, BWA, SAMtools
 
-**Tools and Commands Used:**
-- FastQC - Quality check of raw reads
-- Trimmomatic / Cutadapt - Adapter trimming and low quality filtering
-- BWA-MEM - Alignment to reference genome
-- SAMtools - Conversion, sorting and indexing of BAM files
-- IGV - Visualization of aligned reads
+## Pipeline Workflow
+1. Quality Check of raw FASTQ files
+2. Adapter & quality trimming
+3. Alignment to reference genome
+4. BAM file generation & sorting
 
-**Workflow:**
-1. Checked raw read quality using FastQC
-2. Trimmed adapters and low-quality bases using Trimmomatic
-3. Aligned trimmed reads to reference genome using BWA
-4. Sorted and indexed BAM files using SAMtools
-5. Visualized alignment in IGV
+## Files in this Repo
+- commands.sh - All commands used in pipeline
+- README.md - Project documentation
+- (optional) sample FastQC report screenshot
 
-**Learning:** This helped me understand how raw FASTQ quality affects alignment and why QC before analysis is important.
+## How to Run
+bash commands.sh
 
-**Skills:** Linux command line, NGS QC, Alignment, SAMtools, IGV
-
-*This is a learning repository as part of my M.Sc. Bioinformatics coursework.*
+## Skills Demonstrated
+Linux, Bash Scripting, Data Quality Control, Large-scale Data Processing
