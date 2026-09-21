@@ -27,3 +27,20 @@ Designed for handling large-scale biological datasets efficiently on Linux.
 ## ▶️ How to Run
 ```bash
 bash commands.sh
+
+## 🎯 Skills Demonstrated
+NGS Analysis, Linux Bash, Data QC, BWA, SAMtools, Reproducible Pipelines
+
+## 🧪 Wet Lab Exposure (For In-Person Internship)
+- DNA/RNA Isolation
+- PCR & Agarose Gel Electrophoresis
+- Micropipetting, Centrifugation, Sterile Techniques
+- Lab Safety & Record Maintenance
+*Eager for hands-on training in advanced molecular techniques in a real lab setting.*
+
+## 📓 Lab Notebook
+See `lab_protocols/` folder for SOPs maintained during M.Sc. practicals.
+
+## 👩‍🔬 Author
+Sneha Shalini | M.Sc. Bioinformatics, Pondicherry University
+Seeking In-Person Bioinformatics Internship (Hands-on Lab Work)
