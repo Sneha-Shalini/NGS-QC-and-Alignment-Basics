@@ -42,5 +42,5 @@ NGS Analysis, Linux Bash, Data QC, BWA, SAMtools, Reproducible Pipelines
 See `lab_protocols/` folder for SOPs maintained during M.Sc. practicals.
 
 ## 👩‍🔬 Author
-Sneha Shalini | M.Sc. Bioinformatics, Pondicherry University
+Sneha Chakraborty | M.Sc. Bioinformatics, Pondicherry University
 Seeking In-Person Bioinformatics Internship (Hands-on Lab Work)
